@@ -12,7 +12,7 @@ title                    : "Max J Newman"
 title_separator          : "-"
 name                     : &name "Max J Newman"
 description              : &description "Max Newman's Website"
-url                      : https://max2simi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://max2simi.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "max2simi/maxjnewman.github.io"
 
@@ -21,14 +21,14 @@ repository               : "max2simi/maxjnewman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "Max_Profile_Picture.jpeg"
+  name             : "Max Newman"
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Piscataway, New Jersey"
+  employer         : "Rutgers University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mjn125@physics.rutgers.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
